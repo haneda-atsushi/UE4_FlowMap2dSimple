@@ -1,9 +1,11 @@
-# UE4_FlowMap2d
+# UE4_FlowMap2dSimple
+Simple example of UE4 flowmap shader.
 
-* TODO : 画像を貼る
+<img src="https://github.com/gregory-igehy/UE4_FlowMap2d/blob/master/ScreenShots/ScreenShot.png" width="640"/>
 
-* recommended system requirements
-** UE4.17.0
+## recommended system requirements
+* UE4.17.0
 
 ## Reference
-### "Flow Map Material Setup in 13 Minutes" https://www.youtube.com/watch?v=tEr3NE_XLbc
+* "Flow Map Material Setup in 13 Minutes" by UnrealSimon
+    * https://www.youtube.com/watch?v=tEr3NE_XLbc

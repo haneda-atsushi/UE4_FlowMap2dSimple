@@ -8,3 +8,9 @@ Simple example of UE4 flowmap shader based on the video below.
 
 ## recommended system requirements
 * UE4.17.0
+
+## Related documents
+* "Water Flow in Portal 2" SIGGRAPH 2010
+   * http://www.valvesoftware.com/publications/2010/siggraph2010_vlachos_waterflow.pdf
+* "Water Technology of Uncharted" GDC 2012
+   * http://www.gdcvault.com/play/1015309/Water-Technology-of
